@@ -14,6 +14,13 @@
         ]
     },
     {
+        "title": "Bonus",
+        "url": "https://Jwerfel.github.io/JBaseballDocs/Gameplay/Bonus",
+        "tags": [
+            "gameplay"
+        ]
+    },
+    {
         "title": "Buy blue boba",
         "url": "https://Jwerfel.github.io/JBaseballDocs/Sample-Boba/BuyBlueBoba",
         "tags": [
@@ -81,6 +88,13 @@
         "url": "https://Jwerfel.github.io/JBaseballDocs/Sample-FastFood/HowToPrepareRamen",
         "tags": [
             "fastFood"
+        ]
+    },
+    {
+        "title": "Lineup",
+        "url": "https://Jwerfel.github.io/JBaseballDocs/Gameplay/Lineup",
+        "tags": [
+            "gameplay"
         ]
     },
     {
