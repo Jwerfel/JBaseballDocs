@@ -60,6 +60,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [How to make spaghetti](https://Jwerfel.github.io/JBaseballDocs/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
 - [How to prepare ramen](https://Jwerfel.github.io/JBaseballDocs/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
 - [Peach smoothie](https://Jwerfel.github.io/JBaseballDocs/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-Smoothies/Peach.md))
+- [Play Game](https://Jwerfel.github.io/JBaseballDocs/Gameplay/PlayGame) (gameplay) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Gameplay/PlayGame.md))
 - [Plum smoothie](https://Jwerfel.github.io/JBaseballDocs/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://Jwerfel.github.io/JBaseballDocs/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-Smoothies/RedBerries.md))
 
