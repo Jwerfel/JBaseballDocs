@@ -1,6 +1,6 @@
 ---
 title: Lineup
-tags: gameplay
+tags: lineup
 ---
 
 # Lineup
