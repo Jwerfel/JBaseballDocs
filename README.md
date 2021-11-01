@@ -47,21 +47,9 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://Jwerfel.github.io/JBaseballDocs/404) (SupportDocs Integrated File) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/JBaseballDocs/404.md))
-- [Apple smoothie](https://Jwerfel.github.io/JBaseballDocs/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-Smoothies/Apple.md))
-- [Blueberry smoothie](https://Jwerfel.github.io/JBaseballDocs/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-Smoothies/Blueberry.md))
-- [Bonus](https://Jwerfel.github.io/JBaseballDocs/Gameplay/Bonus) (gameplay) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Gameplay/Bonus.md))
-- [How to cook pizza](https://Jwerfel.github.io/JBaseballDocs/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
-- [How to eat burritos](https://Jwerfel.github.io/JBaseballDocs/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
-- [How to eat grilled cheese](https://Jwerfel.github.io/JBaseballDocs/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
-- [How to eat nachos](https://Jwerfel.github.io/JBaseballDocs/Sample-FastFood/HowToEatNachos) (fastFood) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-FastFood/HowToEatNachos.md))
-- [How to eat tacos](https://Jwerfel.github.io/JBaseballDocs/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
-- [How to make spaghetti](https://Jwerfel.github.io/JBaseballDocs/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
-- [How to prepare ramen](https://Jwerfel.github.io/JBaseballDocs/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
-- [Lineup](https://Jwerfel.github.io/JBaseballDocs/Gameplay/Lineup) (gameplay) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Gameplay/Lineup.md))
-- [Peach smoothie](https://Jwerfel.github.io/JBaseballDocs/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-Smoothies/Peach.md))
+- [Bonus Points](https://Jwerfel.github.io/JBaseballDocs/Bonus/Bonus) (bonus) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Bonus/Bonus.md))
+- [Lineup](https://Jwerfel.github.io/JBaseballDocs/Lineup/Lineup) (lineup) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Lineup/Lineup.md))
 - [Play Game](https://Jwerfel.github.io/JBaseballDocs/Gameplay/PlayGame) (gameplay) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Gameplay/PlayGame.md))
-- [Plum smoothie](https://Jwerfel.github.io/JBaseballDocs/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-Smoothies/Plum.md))
-- [Red berry smoothie](https://Jwerfel.github.io/JBaseballDocs/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Sample-Smoothies/RedBerries.md))
 
 
 ## Notes
