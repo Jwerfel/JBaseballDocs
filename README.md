@@ -50,6 +50,8 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Bonus Points](https://Jwerfel.github.io/JBaseballDocs/Bonus/Bonus) (bonus) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Bonus/Bonus.md))
 - [Lineup](https://Jwerfel.github.io/JBaseballDocs/Lineup/Lineup) (lineup) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Lineup/Lineup.md))
 - [Play Game](https://Jwerfel.github.io/JBaseballDocs/Gameplay/PlayGame) (gameplay) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Gameplay/PlayGame.md))
+- [Profile](https://Jwerfel.github.io/JBaseballDocs/Profile/Profile) (profile) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Profile/Profile.md))
+- [Purchase Points](https://Jwerfel.github.io/JBaseballDocs/Bonus/Points) (bonus) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Bonus/Points.md))
 - [Stealing](https://Jwerfel.github.io/JBaseballDocs/Gameplay/Stealing) (gameplay) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Gameplay/Stealing.md))
 
 
