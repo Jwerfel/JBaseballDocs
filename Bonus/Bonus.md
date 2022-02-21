@@ -10,7 +10,7 @@ During the game you can apply bonus points to increase the chance of a good outc
 Save your bonus points and use them when they are most important!
 
 When batting, you can tap the Bonus button to apply a Contact or Power bonus
-![Batter Bonus](https://raw.githubusercontent.com/jwerfel/JBaseballDocs/DataSource/Images/batting_bonus.jpeg))
+![Batter Bonus](https://raw.githubusercontent.com/jwerfel/JBaseballDocs/DataSource/Images/batting_bonus.jpeg)
 
 When pitching, you can tap the Bonus button to apply a Pitching Bonus
-![Pitching Bonus](https://raw.githubusercontent.com/jwerfel/JBaseballDocs/DataSource/Images/pitching_bonus.jpeg))
+![Pitching Bonus](https://raw.githubusercontent.com/jwerfel/JBaseballDocs/DataSource/Images/pitching_bonus.jpeg)
