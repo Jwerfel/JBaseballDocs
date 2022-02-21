@@ -5,3 +5,4 @@ tmp*
 notes.md
 .swiftpm/xcode
 Example/Example.xcodeproj
+.DS_Store
