@@ -15,4 +15,7 @@ The stats page shows your history of your games, points you have earned and bonu
 # Cards
 
 The cards page shows you all of the cards you have earned.  Tap on a card to view details on the back.
+
+[Cards Help](https://jwerfel.github.io/JBaseballDocs/Profile/BCards)
+
 ![Cards](https://raw.githubusercontent.com/jwerfel/JBaseballDocs/DataSource/Images/cards.png)
