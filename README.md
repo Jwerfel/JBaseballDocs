@@ -48,13 +48,13 @@ class UIKitExampleController_MinimalCode: UIViewController {
 ## Table of Contents
 - [404 Page](https://Jwerfel.github.io/JBaseballDocs/404) (SupportDocs Integrated File) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/JBaseballDocs/404.md))
 - [Bonus Points](https://Jwerfel.github.io/JBaseballDocs/Bonus/Bonus) (bonus) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Bonus/Bonus.md))
-- [Cards](https://Jwerfel.github.io/JBaseballDocs/Profile/Cards) (profile) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Profile/Cards.md))
+- [Cards](https://Jwerfel.github.io/JBaseballDocs/Profile/BCards) (profile) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Profile/BCards.md))
 - [Game Overview](https://Jwerfel.github.io/JBaseballDocs/Gameplay/Overview) (gameplay) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Gameplay/Overview.md))
 - [Lineup](https://Jwerfel.github.io/JBaseballDocs/Lineup/Lineup) (lineup) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Lineup/Lineup.md))
 - [Play Game](https://Jwerfel.github.io/JBaseballDocs/Gameplay/PlayGame) (gameplay) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Gameplay/PlayGame.md))
-- [Profile](https://Jwerfel.github.io/JBaseballDocs/Profile/aProfile) (profile) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Profile/aProfile.md))
+- [Profile](https://Jwerfel.github.io/JBaseballDocs/Profile/AAProfile) (profile) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Profile/AAProfile.md))
 - [Purchase Points](https://Jwerfel.github.io/JBaseballDocs/Bonus/Points) (bonus) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Bonus/Points.md))
-- [Sharing](https://Jwerfel.github.io/JBaseballDocs/Profile/Sharing) (profile) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Profile/Sharing.md))
+- [Sharing](https://Jwerfel.github.io/JBaseballDocs/Profile/CSharing) (profile) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Profile/CSharing.md))
 - [Stealing](https://Jwerfel.github.io/JBaseballDocs/Gameplay/Stealing) (gameplay) ([edit](https://github.com/Jwerfel/JBaseballDocs/edit/DataSource/Gameplay/Stealing.md))
 
 

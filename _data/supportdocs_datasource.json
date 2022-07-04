@@ -1,5 +1,19 @@
 [
     {
+        "title": "Profile",
+        "url": "https://Jwerfel.github.io/JBaseballDocs/Profile/AAProfile",
+        "tags": [
+            "profile"
+        ]
+    },
+    {
+        "title": "Cards",
+        "url": "https://Jwerfel.github.io/JBaseballDocs/Profile/BCards",
+        "tags": [
+            "profile"
+        ]
+    },
+    {
         "title": "Bonus Points",
         "url": "https://Jwerfel.github.io/JBaseballDocs/Bonus/Bonus",
         "tags": [
@@ -7,8 +21,8 @@
         ]
     },
     {
-        "title": "Cards",
-        "url": "https://Jwerfel.github.io/JBaseballDocs/Profile/Cards",
+        "title": "Sharing",
+        "url": "https://Jwerfel.github.io/JBaseballDocs/Profile/CSharing",
         "tags": [
             "profile"
         ]
@@ -42,24 +56,10 @@
         ]
     },
     {
-        "title": "Sharing",
-        "url": "https://Jwerfel.github.io/JBaseballDocs/Profile/Sharing",
-        "tags": [
-            "profile"
-        ]
-    },
-    {
         "title": "Stealing",
         "url": "https://Jwerfel.github.io/JBaseballDocs/Gameplay/Stealing",
         "tags": [
             "gameplay"
-        ]
-    },
-    {
-        "title": "Profile",
-        "url": "https://Jwerfel.github.io/JBaseballDocs/Profile/aProfile",
-        "tags": [
-            "profile"
         ]
     }
 ]
