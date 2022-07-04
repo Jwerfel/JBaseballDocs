@@ -13,7 +13,7 @@ After each game you win, you will earn a card.  You can view the cards you have 
 ## Share
 Cards you have earned can be shared with other JBaseballApp players and you can receive cards from others.  
 
-[Sharing Help](https://raw.githubusercontent.com/jwerfel/JBaseballDocs/DataSource/Profile/Sharing.md)
+[Sharing Help](https://jwerfel.github.io/JBaseballDocs/Profile/Sharing)
 
 ## Favorite
 Tap the star to make a card your favorite.  Favorite cards show at the top of the list of cards.  A favorite card cannot be deleted or shared.  If you want to delete or share a card you must unfavorite it first.
