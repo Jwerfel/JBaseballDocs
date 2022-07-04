@@ -7,6 +7,13 @@
         ]
     },
     {
+        "title": "Cards",
+        "url": "https://Jwerfel.github.io/JBaseballDocs/Profile/Cards",
+        "tags": [
+            "profile"
+        ]
+    },
+    {
         "title": "Lineup",
         "url": "https://Jwerfel.github.io/JBaseballDocs/Lineup/Lineup",
         "tags": [
@@ -37,6 +44,13 @@
     {
         "title": "Profile",
         "url": "https://Jwerfel.github.io/JBaseballDocs/Profile/Profile",
+        "tags": [
+            "profile"
+        ]
+    },
+    {
+        "title": "Sharing",
+        "url": "https://Jwerfel.github.io/JBaseballDocs/Profile/Sharing",
         "tags": [
             "profile"
         ]
