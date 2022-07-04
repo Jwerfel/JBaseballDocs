@@ -42,13 +42,6 @@
         ]
     },
     {
-        "title": "Profile",
-        "url": "https://Jwerfel.github.io/JBaseballDocs/Profile/Profile",
-        "tags": [
-            "profile"
-        ]
-    },
-    {
         "title": "Sharing",
         "url": "https://Jwerfel.github.io/JBaseballDocs/Profile/Sharing",
         "tags": [
@@ -60,6 +53,13 @@
         "url": "https://Jwerfel.github.io/JBaseballDocs/Gameplay/Stealing",
         "tags": [
             "gameplay"
+        ]
+    },
+    {
+        "title": "Profile",
+        "url": "https://Jwerfel.github.io/JBaseballDocs/Profile/aProfile",
+        "tags": [
+            "profile"
         ]
     }
 ]
