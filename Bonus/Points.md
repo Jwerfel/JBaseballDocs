@@ -4,8 +4,19 @@ tags: bonus
 ---
 
 # Purchase Points
+You earn points when you play the game but you can also purchase points
 
-You earn points by playing but you can also purchase them.  Points can be purchased to upgrade players on your team and bonus points can be purchased to use during the game.
+# Player Points
 
-From the Points tab you can purchase points for your team
-![Purchase Points](https://raw.githubusercontent.com/jwerfel/JBaseballDocs/DataSource/Images/purchase_points.jpeg)
+Player points are earned at the end of each game.  The better you do in the game, the more points you earn.  Player points are used to upgrade your players attributes.  
+
+# Bonus Points
+
+Bonus points are earned at the end of the game.  No matter how you do, you will earn 10 bonus points at the end of each game.  You can use bonus points to increase your chances of a good outcome during the game.
+
+# Tips
+
+If you are enjoying the game, consider tipping the developer.  All tips appreciated!
+
+From the Points tab you can purchase player points, bonus points and tips
+![Purchase Points](https://raw.githubusercontent.com/jwerfel/JBaseballDocs/DataSource/Images/Points.png)
